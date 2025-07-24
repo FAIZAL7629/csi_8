@@ -1,5 +1,4 @@
 
-````markdown
 # 🤖 Loan Approval RAG Q&A Chatbot
 
 A lightweight Retrieval-Augmented Generation (RAG) chatbot that intelligently answers natural language questions about loan approval — powered by OpenAI GPT-3.5 and FAISS-based document retrieval.
@@ -30,7 +29,6 @@ Install required libraries locally or in Colab:
 
 ```bash
 pip install openai==1.2.4 faiss-cpu sentence-transformers pandas numpy
-````
 
 ---
 
